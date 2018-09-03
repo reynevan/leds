@@ -89,7 +89,6 @@ class Led{
   void initEffect();
 
   void nextColor();
-  void dupa();
 
   bool dynamicMode;
   int blue;
